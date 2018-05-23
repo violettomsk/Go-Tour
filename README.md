@@ -1,1 +1,2 @@
-# Go-Toure
+# Go-Tour
+https://tour.golang.org
